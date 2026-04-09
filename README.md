@@ -116,8 +116,11 @@ feature/cadastro-aluno
 
 ## 👥 Equipe
 
-* Rafael Cabral — Backend
-* (Adicionar colegas aqui)
+* Rafael Cabral 
+* Victor Emanuel
+* Mel Barbosa
+* Douglas Teofilo
+  
 
 ---
 
